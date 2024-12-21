@@ -1,6 +1,4 @@
----
-title: "hay-idd.github.io"
----
+## title: "hay-idd.github.io"
 
 This is a Quarto website.
 
