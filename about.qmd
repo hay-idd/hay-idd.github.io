@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Infectious Disease Dynamics"
 ---
 
 About this site
