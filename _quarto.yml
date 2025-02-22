@@ -5,7 +5,7 @@ project:
 website:
   title: "JHay @ PSI Oxford"
   site-url: https://hay-idd.github.io
-  description: "James Hay group webpage"
+  description: "James Hay website"
   navbar:
     left:
       - href: index.qmd

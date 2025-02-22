@@ -10,62 +10,6 @@
 <atom:link href="https://hay-idd.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>James Hay website</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sat, 11 Oct 2025 23:00:00 GMT</lastBuildDate>
-<item>
-  <title>Applying for a fellowship</title>
-  <dc:creator>James Hay</dc:creator>
-  <link>https://hay-idd.github.io/posts/unused/post1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Testing</p>
-
-
-
- ]]></description>
-  <category>Careers</category>
-  <guid>https://hay-idd.github.io/posts/unused/post1.html</guid>
-  <pubDate>Sat, 11 Oct 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Various ways to fit infectious disease models</title>
-  <dc:creator>James Hay</dc:creator>
-  <link>https://hay-idd.github.io/posts/unused/post2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Testing</p>
-
-
-
- ]]></description>
-  <category>Methods</category>
-  <guid>https://hay-idd.github.io/posts/unused/post2.html</guid>
-  <pubDate>Sat, 11 Oct 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Serodynamics review</title>
-  <dc:creator>James Hay</dc:creator>
-  <link>https://hay-idd.github.io/posts/unused/post3.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Testing</p>
-
-
-
- ]]></description>
-  <category>Publication</category>
-  <category>Methods</category>
-  <guid>https://hay-idd.github.io/posts/unused/post3.html</guid>
-  <pubDate>Sat, 11 Oct 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://hay-idd.github.io/posts/unused/images/serodynamics_mini.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Sat, 22 Feb 2025 11:04:44 GMT</lastBuildDate>
 </channel>
 </rss>

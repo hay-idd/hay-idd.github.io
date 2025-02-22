@@ -1,10 +1,6 @@
 [
   {
     "listing": "/blog.html",
-    "items": [
-      "/posts/unused/post1.html",
-      "/posts/unused/post2.html",
-      "/posts/unused/post3.html"
-    ]
+    "items": []
   }
 ]
