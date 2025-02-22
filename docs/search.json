@@ -1,23 +1,93 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "News and Blog",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "To come!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplying for a fellowship\n\n\n\n\n\n\nCareers\n\n\n\nMy experience and advice for applying for a research fellowship\n\n\n\n\n\nOct 12, 2025\n\n\nJames Hay\n\n\n\n\n\n\n\n\n\n\n\n\nVarious ways to fit infectious disease models\n\n\n\n\n\n\nMethods\n\n\n\nTesting different approaches to fitting infectious disease models\n\n\n\n\n\nOct 12, 2025\n\n\nJames Hay\n\n\n\n\n\n\n\n\n\n\n\n\nSerodynamics review\n\n\n\n\n\n\nPublication\n\n\nMethods\n\n\n\nReview article\n\n\n\n\n\nOct 12, 2025\n\n\nJames Hay\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "Team",
+    "section": "",
+    "text": "We are a small team with expertise in infectious disease modelling, within-host modeling, Bayesian statistics, R-package development, agent-based models, immunology and surveillance systems. We’re always happy to hear from potential collaborators or students interested in working with us."
+  },
+  {
+    "objectID": "group.html#recruitment",
+    "href": "group.html#recruitment",
+    "title": "Team",
+    "section": "Recruitment",
+    "text": "Recruitment\n\nPostdocs\nWe are hiring a postdoc/data scientist to study early correlates of protection following Nipah vaccination. This project will use mathematical models and machine learning applied to systems immunology data to identify and understand potential immune markers following vaccination with the ChAdOx1 NipahB vaccine. Please get in touch to find out more.\n\n\nStudents\nI supervise undergraduate students and MSc students on the Modelling for Global Health course. I am also open to supervising PhD students through the Clinical Medicine Programme and Healthcare Data Science CDT"
+  },
+  {
+    "objectID": "posts/unused/post2.html",
+    "href": "posts/unused/post2.html",
+    "title": "Various ways to fit infectious disease models",
+    "section": "",
+    "text": "Testing"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For enquiries about my research, media comments, collaborations, student opportunities, or anything else, please get in touch at james.hay@ndm.ox.ac.uk"
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "Contact",
+    "section": "Address",
+    "text": "Address\nI am based at the Big Data Institute on the Old Road Campus, University of Oxford."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research broadly aims to improve the accuracy and robustness of infectious disease surveillance systems and to understand where and when populations are most at risk. We mainly use statistical and mathematical models to describe and explain between- and within-host dynamics. We work on both theoretical projects, developing new mathematical frameworks to estimate epidemiological parameters using novel data sources, and with multiple international collaborators to answer specific questions using experimental data, surveillance data, trials and cohort studies.\nWe work mostly on acute respiratory viruses such as influenza, SARS-CoV-2 and RSV, but we also have projects on pathogens such as norovirus, West Nile virus, and malaria.\nWe have three main research themes:"
+  },
+  {
+    "objectID": "research.html#improving-diagnostic-use-in-infectious-disease-surveillance",
+    "href": "research.html#improving-diagnostic-use-in-infectious-disease-surveillance",
+    "title": "Research",
+    "section": "Improving diagnostic use in infectious disease surveillance",
+    "text": "Improving diagnostic use in infectious disease surveillance\nQuantitative measurements of individual-level infection states are increasingly common in infectious disease surveillance. However, these rich measurements are usually reported and analysed as binary data. For example, semi-quantitative RT-qPCR cycle threshold (Ct) values, despite being a (noisy) proxy for sample viral load are almost always reported as positive or negative based on some cutoff value. This dichotomisation results in a substantial loss of information.\nWe are interested in how these rich diagnostic data can be used to their full potential. For example, by showing the gains in statistical power and developing methods to incorporate quantitative biomarker measurements into studies of infection prevalence and incidence. Getting the most from these data requires within-host models of pathogen kinetics to understand what quantitative biomarker measurements tell us about an individual’s infection state. We are also interested in how these approaches can enable improved surveillance in resource-limited settings, where the effective but costly surveillance systems we are used to in high-income countries are not feasible.\n\n\n\n\n\nFigure from Hay & Kennedy-Shaffer et al., Science 2021 DOI: 10.1126/science.abh0635"
+  },
+  {
+    "objectID": "research.html#seroepidemiology-and-analytical-tools",
+    "href": "research.html#seroepidemiology-and-analytical-tools",
+    "title": "Research",
+    "section": "Seroepidemiology and analytical tools",
+    "text": "Seroepidemiology and analytical tools\nA primary focus of the group is serodynamics: using antibody measurements to reconstruct epidemic dynamics and individual histories of infection. We combine individual-level models of immune processes with population-level models of transmission to understand, infer and project how immunity builds up in a population over time. Our main method is the serosolver model – a Bayesian hierarchical model which infers antibody kinetics, individual infection histories and population attack rates using antibody profile data. We are currently using this approach in collaborative projects to analyze SARS-CoV-2, norovirus, RSV and influenza B serological data.\nWe (in collaboration with researchers at LSHTM) continue to develop software tools and frameworks to standardise the analysis of serological data for reconstructing epidemic dynamics more broadly."
+  },
+  {
+    "objectID": "research.html#measuring-population-immunity",
+    "href": "research.html#measuring-population-immunity",
+    "title": "Research",
+    "section": "Measuring population immunity",
+    "text": "Measuring population immunity\nWe are interested in how complex immune profiles develop over a lifetime of repeated infection and vaccination. We have ongoing work using serological data to study the life-course seroepidemiology of viruses which cause repeated lifetime infections, such as seasonal influenza, SARS-CoV-2 and RSV. A new direction for the group is using systems immunology and modeling to improve our understanding and use of correlates of protection in vaccine trials. We aim to combine these areas of research to better characterise population immune landscapes with the aim of improving infectious disease forecasting and planning.\n\n\n\n\n\nFigure from Hay et al., PLOS Biology 2024 DOI: 10.1371/journal.pbio.3002864"
+  },
+  {
+    "objectID": "posts/unused/post1.html",
+    "href": "posts/unused/post1.html",
+    "title": "Applying for a fellowship",
+    "section": "",
+    "text": "Testing"
+  },
+  {
+    "objectID": "posts/unused/post3.html",
+    "href": "posts/unused/post3.html",
+    "title": "Serodynamics review",
+    "section": "",
+    "text": "Testing"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hay-idd.github.io",
+    "title": "Latest news",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#title-hay-idd.github.io",
-    "href": "index.html#title-hay-idd.github.io",
-    "title": "hay-idd.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a research fellow at the Pandemic Sciences Institute at the University of Oxford funded through a Wellcome Trust Early Career Award. My expertise is in infectious disease epidemiology and mathematical modelling, with a particular interest in using pathogen and host biomarker data (e.g., serology) to understand and track the dynamics of infectious diseases. My publications, review history and awards are listed on Google Scholar and ORCID.\nI completed my PhD at Imperial College in 2019 and spent three years as a postdoc at the Harvard Chan School of Public Health. Before that, my undergraduate degree was in Natural Sciences (Zoology) at the University of Cambridge, followed by an MSc in Computing Science at Imperial College.\nI’m always happy to talk about infectious disease dynamics (influenza is my favourite pathogen), serology, viral kinetics, inference methods, hiking, squash… or anything else! Feel free to get in touch at james.hay@ndm.ox.ac.uk.\n\nLatest news\n\n2024-12-07: Check out our new review article in Epidemics giving a full primer and overview of modelling methods for estimating infections and epidemic dynamics using serological data. With Saki Takahashi at JHU and Isobel Routledge at UCSF.\n2024-11-07: Reconstructed influenza A/H3N2 infection histories using multistrain serology, paper out in PLOS Biology! We inferred lifetime infections and antibody levels for 1130 individuals in Guangzhou, China, giving insights into long-term influenza incidence and immunity. Bsky thread here."
   }
 ]

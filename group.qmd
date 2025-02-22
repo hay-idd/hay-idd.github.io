@@ -1,0 +1,15 @@
+---
+title: "Team"
+---
+
+We are a small team with expertise in infectious disease modelling, within-host modeling, Bayesian statistics, R-package development, agent-based models, immunology and surveillance systems. We're always happy to hear from potential collaborators or students interested in working with us.
+
+- [Punya Alahakoon](https://www.psi.ox.ac.uk/our-team/punya-alahakoon) (postdoc)
+- Yan Wang (visiting postdoc)
+
+## Recruitment
+### Postdocs
+We are hiring a postdoc/data scientist to study early correlates of protection following Nipah vaccination. This project will use mathematical models and machine learning applied to systems immunology data to identify and understand potential immune markers following vaccination with the [ChAdOx1 NipahB vaccine](https://www.ox.ac.uk/news/2024-01-11-first-human-vaccine-trial-deadly-nipah-virus-launched). Please get in touch to find out more.
+
+### Students
+I supervise undergraduate students and MSc students on the [Modelling for Global Health](https://www.ox.ac.uk/admissions/graduate/courses/msc-modelling-for-global-health) course. I am also open to supervising PhD students through the [Clinical Medicine Programme](https://www.ndm.ox.ac.uk/study/graduate-studies) and [Healthcare Data Science CDT](https://www.bdi.ox.ac.uk/study/cdt)

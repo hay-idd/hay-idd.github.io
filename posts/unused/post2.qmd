@@ -1,0 +1,13 @@
+---
+title: "Various ways to fit infectious disease models"
+description: "Testing different approaches to fitting infectious disease models"
+author:
+  - name: James Hay
+    url: https://hay-idd.github.io
+    orcid: 0000-0002-1998-1844
+date: 22-12-2024
+categories: [Methods]
+draft: false
+---
+
+Testing

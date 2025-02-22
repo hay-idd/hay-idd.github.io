@@ -3,13 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "hay-idd.github.io"
+  title: "JHay @ PSI Oxford"
+  site-url: https://hay-idd.github.io
+  description: "James Hay website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - group.qmd
+      - blog.qmd
+      - contact.qmd
+      - text: CV
+        href: https://drive.google.com/file/d/117a4Jh2LcO5fyL30TcfHu07G98Pk4xDq/view?usp=sharing
+        target: _blank
 
+    tools:
+      - icon: twitter
+        href: https://bsky.app/profile/jameshay.bsky.social
+        alt: Twitter
+        target: _blank
+      - icon: google
+        href: https://scholar.google.com/citations?user=QroZi-IAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/jameshay218
+        alt: GitHub
+        target: _blank
+      - icon: envelope
+        aria-label: email
+        href: "mailto:james.hay@ndm.ox.ac.uk"
+        
+  search: 
+    location: navbar
+    type: overlay
+    
 format:
   html:
     theme: sandstone

@@ -1,0 +1,45 @@
+---
+title: "Research"
+fig-cap-location: bottom
+---
+
+Our research broadly aims to **improve the accuracy and robustness of infectious disease surveillance systems and to understand where and when populations are most at risk**. We mainly use **statistical and mathematical models** to describe and explain between- and within-host dynamics. We work on both theoretical projects, developing new mathematical frameworks to estimate epidemiological parameters using novel data sources, and with multiple international collaborators to answer specific questions using experimental data, surveillance data, trials and cohort studies. 
+
+We work mostly on acute respiratory viruses such as **influenza, SARS-CoV-2 and RSV**, but we also have projects on pathogens such as norovirus, West Nile virus, and malaria.
+
+We have three main research themes:
+
+1. Improving diagnostic use in infectious disease surveillance
+2. Seroepidemiology and analytical tools
+3. Measuring population immunity
+
+## Improving diagnostic use in infectious disease surveillance
+Quantitative measurements of individual-level infection states are increasingly common in infectious disease surveillance. However, these rich measurements are usually reported and analysed as binary data. For example, semi-quantitative [RT-qPCR cycle threshold (Ct) values](https://www.science.org/doi/10.1126/science.abh0635), despite being a (noisy) proxy for sample viral load are almost always reported as positive or negative based on some cutoff value. This dichotomisation results in a [substantial loss of information](https://onlinelibrary.wiley.com/doi/10.1002/pst.331). 
+
+We are interested in how these rich diagnostic data can be used to their full potential. For example, by showing the gains in statistical power and developing methods to incorporate quantitative biomarker measurements into studies of infection prevalence and incidence. Getting the most from these data requires [within-host models](https://doi.org/10.7554/eLife.81849) of pathogen kinetics to understand what quantitative biomarker measurements tell us about an individual's infection state. We are also interested in how these approaches can enable [improved surveillance in resource-limited settings](https://doi.org/10.1126/scitranslmed.abf1568), where the effective but costly surveillance systems we are used to in high-income countries are not feasible. 
+
+![](assets/images/comb.gif){.ct_figure fig-align="center" width=600 alt="Figure showing how quantitative RT-qPCR cycle threshold (Ct) values can be used to estimate the growth rate of an epidemic."}
+
+[Figure from Hay & Kennedy-Shaffer et al., *Science* 2021 DOI: 10.1126/science.abh0635](https://doi.org/10.1126/science.abh0635)
+
+<!--
+![](assets/images/ct_figure.jpg){.ct_figure fig-align="center" width=600 alt="Figure showing how quantitative RT-qPCR cycle threshold (Ct) values can be used to estimate the growth rate of an epidemic."}
+
+[Figure from Hay & Kennedy-Shaffer et al., *Science* 2021 DOI: 10.1126/science.abh0635](https://doi.org/10.1126/science.abh0635)
+-->
+
+## Seroepidemiology and analytical tools
+A primary focus of the group is [serodynamics](https://doi.org/10.1016/j.epidem.2024.100806): using antibody measurements to reconstruct epidemic dynamics and individual histories of infection. We combine individual-level models of immune processes with population-level models of transmission to understand, infer and project how immunity builds up in a population over time. Our main method is the [*serosolver*](https://doi.org/10.1371/journal.pcbi.1007840) model -- a Bayesian hierarchical model which infers antibody kinetics, individual infection histories and population attack rates using antibody profile data. We are currently using this approach in collaborative projects to analyze SARS-CoV-2, norovirus, RSV and influenza B serological data.
+
+We (in collaboration with researchers at LSHTM) continue to develop [software tools](https://seroanalytics.org/) and frameworks to standardise the analysis of serological data for reconstructing epidemic dynamics more broadly.
+<!-- [Figure from Hay et al., *PLOS Computational Biology* 2020 DOI: 10.1371/journal.pcbi.1007840](https://doi.org/10.1371/journal.pcbi.1007840)
+-->
+
+![](assets/images/serosolver_alt.png){.serosolver fig-align="center" width=400 alt="Figure showing serosolver estimates using influenza A data."}
+
+## Measuring population immunity
+We are interested in how complex immune profiles develop over a lifetime of repeated infection and vaccination. We have ongoing work using serological data to study the life-course seroepidemiology of viruses which cause repeated lifetime infections, such as seasonal [influenza](https://doi.org/10.1371/journal.pbio.3002864), SARS-CoV-2 and RSV. A new direction for the group is using systems immunology and modeling to improve our understanding and use of correlates of protection in vaccine trials. We aim to combine these areas of research to better characterise population immune landscapes with the aim of improving infectious disease forecasting and planning.
+
+![](assets/images/correlates_curve.PNG){.cop fig-align="center" width=600 alt="Figure showing estimates of the relationship between influenza HI titer and relative risk of infection."}
+
+[Figure from Hay et al., *PLOS Biology* 2024 DOI: 10.1371/journal.pbio.3002864](https://doi.org/10.1371/journal.pbio.3002864)

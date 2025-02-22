@@ -1,9 +1,11 @@
-## title: "hay-idd.github.io"
+![](assets/images/headshot2.JPG){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; display: block; margin: 0 auto;"}
 
-This is a Quarto website.
+I am a _research fellow_ at the [Pandemic Sciences Institute](https://www.psi.ox.ac.uk/) at the University of Oxford funded through a [Wellcome Trust Early Career Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/developing-next-generation-epidemiological). My expertise is in _infectious disease epidemiology_ and _mathematical modelling_, with a particular interest in using pathogen and host biomarker data (e.g., _serology_) to understand and track the dynamics of infectious diseases. My publications, review history and awards are listed on [Google Scholar](https://scholar.google.com/citations?user=QroZi-IAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-1998-1844).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I completed my [PhD at Imperial College](https://spiral.imperial.ac.uk/entities/publication/9a9c5ecb-3add-42ed-9c76-682d5c9e8727) in 2019 and spent three years as a postdoc at the Harvard Chan School of Public Health. Before that, my undergraduate degree was in Natural Sciences (Zoology) at the University of Cambridge, followed by an MSc in Computing Science at Imperial College.
 
-```{r}
-1 + 1
-```
+I'm always happy to talk about infectious disease dynamics (influenza is my favourite pathogen), serology, viral kinetics, inference methods, hiking, squash... or anything else! Feel free to get in touch at [james.hay@ndm.ox.ac.uk](mailto:james.hay@ndm.ox.ac.uk).
+
+# Latest news
+- 2024-12-07: Check out our new review article in [Epidemics](https://www.sciencedirect.com/science/article/pii/S1755436524000677) giving a full primer and overview of modelling methods for estimating infections and epidemic dynamics using serological data. With Saki Takahashi at JHU and Isobel Routledge at UCSF.
+- 2024-11-07: [Reconstructed influenza A/H3N2 infection histories using multistrain serology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002864), paper out in PLOS Biology! We inferred lifetime infections and antibody levels for 1130 individuals in Guangzhou, China, giving insights into long-term influenza incidence and immunity. [Bsky thread here](https://bsky.app/profile/jameshay.bsky.social/post/3lagirwrm5m2g).

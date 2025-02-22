@@ -1,9 +1,0 @@
----
-title: "Infectious Disease Dynamics"
----
-
-About this site
-
-```{r}
-1 + 1
-```

@@ -1,0 +1,14 @@
+---
+title: "Serodynamics review"
+description: "Review article"
+author:
+  - name: James Hay
+    url: https://hay-idd.github.io
+    orcid: 0000-0002-1998-1844
+date: 22-12-2024
+categories: [Publication, Methods]
+image: images/serodynamics_mini.jpg
+draft: false
+---
+
+Testing
