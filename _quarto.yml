@@ -15,7 +15,7 @@ website:
       - blog.qmd
       - contact.qmd
       - text: CV
-        href: https://drive.google.com/file/d/117a4Jh2LcO5fyL30TcfHu07G98Pk4xDq/view?usp=sharing
+        href: https://drive.google.com/file/d/1-E0NItydvhWX6jKeOfSQJJN-fDruJnLB/view?usp=drive_link
         target: _blank
 
     tools:
